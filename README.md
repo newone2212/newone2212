@@ -13,7 +13,7 @@
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/parth-chaturvedi-360981192?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://www.bing.com/images/search?view=detailV2&ccid=P%2fz8uTsV&id=DB6BBE8933B84C5B7A6C425948F95AA200B3A908&thid=OIP.P_z8uTsVJ8tmPn2prJwOpQHaHa&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3ffcfcb93b1527cb663e7da9ac9c0ea5%3frik%3dCKmzAKJa%252bUhZQg%26riu%3dhttp%253a%252f%252ftechssocial.net%252fwp-content%252fuploads%252f2016%252f04%252fLinkedin.png%26ehk%3dKWqXTlbLnBXcZn3raMCm1F617Iqv97CzM3ix2T02NXU%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=2000&expw=2000&q=linkedin&simid=608050598285767584&FORM=IRPRST&ck=C9ACA33F3B1099B3CDC5F1337389EB87&selectedIndex=0&itb=0" alt="parth-chaturvedi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/parth-chaturvedi-360981192?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://brandlogos.net/wp-content/uploads/2020/11/linkedin-logo.png" alt="parth-chaturvedi" height="30" width="40" /></a>
 <a href="https://instagram.com/paru.201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ronakvala_5614" height="30" width="40" /></a>
 </p>
  
